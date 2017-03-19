@@ -27,7 +27,6 @@ This is a python module that creates a website and JSON API for a list of items 
 3. Once it's complete, type vagrant ssh to login to the VM.
 4. In the vm, cd /vagrant
 5. type "pyhon database_setup.py" this will create the database with the categories defined in that script.
-6. Populate the database using "python lotsofitems.py"
 6. type "python project.py" to start the server.
 
 ## Start using the website by typing http://localhost:5000/ in browser
